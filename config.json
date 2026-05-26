@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheppdate",
+        "uuid": 9033152,
+        "checksum": "d78smf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
